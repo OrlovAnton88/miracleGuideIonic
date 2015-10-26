@@ -40,31 +40,20 @@ angular.module('starter.controllers', ['starter.utils'])
       }, 1000);
     };
   })
-
-  //.controller('PlaylistsCtrl', function ($scope) {
-  //  $scope.playlists = [
-  //    {title: 'Сталкер', id: 1},
-  //    {title: 'Монрепо', id: 2}
-  //    //{ title: 'Dubstep', id: 3 },
-  //    //{ title: 'Indie', id: 4 },
-  //    //{ title: 'Rap', id: 5 },
-  //    //{ title: 'Cowbell', id: 6 }
-  //  ];
-  //})
-
   .controller('AreaListCtrl', function ($scope, $stateParams) {
     console.log("$stateParams[" + JSON.stringify($stateParams) + "]");
     var areas = JSON.parse(localStorage.getItem("areas"));
 
-    var topos = [];
+    var area = [];
 
     for (var i = 0; i < areas.length; i++) {
       if (areas[i].name === $stateParams.area) {
-        topos = areas[i].topos;
+        area = areas[i];
+        break;
       }
     }
 
-    $scope.topos = topos;
+    $scope.area = area;
 
   })
 
@@ -161,10 +150,7 @@ angular.module('starter.controllers', ['starter.utils'])
   })
 
   .controller("AreaListsCtrl", function ($scope, $http, $window, $areaInit) {
-    console.log("1>>");
     $areaInit.initArea($http, $window);
-    console.log("2>>");
-
     var areas = JSON.parse(localStorage.getItem("areas"));
     console.log(areas.length);
     var areaNames = [];
@@ -175,4 +161,62 @@ angular.module('starter.controllers', ['starter.utils'])
     ;
 
     $scope.areas = areaNames;
+  })
+  .controller("TopoCtrl", function($scope, $stateParams){
+    console.log("$stateParams[" + JSON.stringify($stateParams) + "]");
+    var areas = JSON.parse(localStorage.getItem("areas"));
+
+    var topo;
+    for (var i = 0; i < areas.length; i++) {
+      var topos = areas[i].topos;
+      for (var j = 0; j < topos.length; j++) {
+        if(topos[j].name === $stateParams.topo){
+          console.log("topo found [" + topos[j].name+"]");
+          topo = topos[j];
+          break;
+        }
+      }
+    }
+    $scope.topo = topo;
+
+  })
+  .controller("RouteCtrl", function($scope, $stateParams, $drawRoute){
+
+    console.log("RouteCtrl : $stateParams[" + JSON.stringify($stateParams) + "]");
+    var areas = JSON.parse(localStorage.getItem("areas"));
+    var route;
+    for (var i = 0; i < areas.length; i++) {
+      var topos = areas[i].topos;
+      for (var j = 0; j < topos.length; j++) {
+          var routes = topos[j].routes;
+          for( var x = 0; x<routes.length; x ++){
+            if(routes[x].name === $stateParams.route){
+              console.log("route found [" + routes[x].name+"]");
+              route = routes[x];
+              break;
+            }
+        }
+      }
+    }
+    $scope.route = route;
+
+    $scope.linesData = route.line;
+
+    //$scope.salesData = [
+    //  {hour: 1,sales: 54},
+    //  {hour: 2,sales: 66},
+    //  {hour: 3,sales: 77},
+    //  {hour: 4,sales: 70},
+    //  {hour: 5,sales: 60},
+    //  {hour: 6,sales: 63},
+    //  {hour: 7,sales: 55},
+    //  {hour: 8,sales: 47},
+    //  {hour: 9,sales: 55},
+    //  {hour: 10,sales: 30}
+    //];
+
+    //drawLine(null,route.line, 500,500);
+
+
+
   });

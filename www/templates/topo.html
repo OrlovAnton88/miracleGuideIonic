@@ -1,0 +1,10 @@
+<ion-view view-title="{{topo.name}}">
+  <ion-content>
+    <!--<img src="{{topo.imageLink}}" width="100%">-->
+    <ion-list>
+      <ion-item ng-repeat="route in topo.routes" href="#/app/route/{{route.name}}">
+        {{route.name}} {{route.level}}
+      </ion-item>
+    </ion-list>
+  </ion-content>
+</ion-view>

@@ -32,4 +32,12 @@ angular.module('starter.utils', [])
         return true;
       }
     }
-  }]);
+  }])
+  .factory('$drawRoute', ['$window', function ($window) {
+    return {
+      drawRoute: function (img, lineObject ) {
+        console.log("drawRoute line object[" + lineObject+"]");
+      }
+    }
+  }])
+;
