@@ -52,25 +52,43 @@ angular.module('starter', ['ionic', 'starter.utils', 'starter.controllers'])
           }
         }
       })
-      .state('app.areas', {
-        url: '/areas',
+      .state('app.home', {
+        url: '/home',
+        abstract: true,
         views: {
           'menuContent': {
-            templateUrl: 'templates/areas.html',
+            templateUrl: 'templates/home.html',
             controller: 'AreaListsCtrl'
           }
         }
       })
-
-      .state('app.single', {
-        url: '/areas/:area',
-        views: {
-          'menuContent': {
-            templateUrl: 'templates/area.html',
-            controller: 'AreaListCtrl'
-          }
-        }
-      })
+        .state('app.home.list', {
+            url: '/list',
+            views: {
+                'list': {
+                    templateUrl: 'templates/areasList.html',
+                    controller: 'AreaListsCtrl'
+                }
+            }
+        })
+        .state('app.home.about', {
+            url: '/about',
+            views: {
+                'about': {
+                    templateUrl: 'templates/about.html',
+                    controller: 'AreaListsCtrl'
+                }
+            }
+        })
+        .state('app.single', {
+            url: '/area/:area',
+            views: {
+                'menuContent': {
+                    templateUrl: 'templates/area.html',
+                    controller: 'AreaListCtrl'
+                }
+            }
+        })
       .state('app.topos', {
         url: '/topo/:topo',
         views: {
@@ -90,7 +108,7 @@ angular.module('starter', ['ionic', 'starter.utils', 'starter.controllers'])
         }
       });
     // if none of the above states are matched, use this as the fallback
-    $urlRouterProvider.otherwise('/app/areas');
+    $urlRouterProvider.otherwise('/app/home/list');
   })
   .directive("linearChart", function ($window) {
     return {
@@ -187,7 +205,7 @@ angular.module('starter', ['ionic', 'starter.utils', 'starter.controllers'])
       scriptTag.src = 'http://d3js.org/d3.v3.min.js';
       scriptTag.onreadystatechange = function () {
         if (this.readyState == 'complete') onScriptLoad();
-      }
+      };
       scriptTag.onload = onScriptLoad;
 
       var s = $document[0].getElementsByTagName('body')[0];

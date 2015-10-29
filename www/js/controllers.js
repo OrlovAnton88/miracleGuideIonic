@@ -41,7 +41,7 @@ angular.module('starter.controllers', ['starter.utils'])
         };
     })
     .controller('AreaListCtrl', function ($scope, $stateParams) {
-        console.log("$stateParams[" + JSON.stringify($stateParams) + "]");
+        console.log("AreaListCtrl: $stateParams[" + JSON.stringify($stateParams) + "]");
         var areas = JSON.parse(localStorage.getItem("areas"));
 
         var area = [];
@@ -150,6 +150,7 @@ angular.module('starter.controllers', ['starter.utils'])
     })
 
     .controller("AreaListsCtrl", function ($scope, $http, $window, $areaInit) {
+        console.log("AreaListsCtrl called")
         $areaInit.initArea($http, $window);
         var areas = JSON.parse(localStorage.getItem("areas"));
         console.log(areas.length);
@@ -163,7 +164,7 @@ angular.module('starter.controllers', ['starter.utils'])
         $scope.areas = areaNames;
     })
     .controller("TopoCtrl", function ($scope, $stateParams) {
-        console.log("$stateParams[" + JSON.stringify($stateParams) + "]");
+        console.log("TopoCtrl: $stateParams[" + JSON.stringify($stateParams) + "]");
         var areas = JSON.parse(localStorage.getItem("areas"));
 
         var topo;
