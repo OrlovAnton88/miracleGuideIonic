@@ -195,7 +195,6 @@ angular.module('starter', ['ionic', 'starter.utils', 'starter.controllers'])
 
       return {
         d3: function () {
-          console.log("d3 loaded");
           return d.promise;
         }
       };
