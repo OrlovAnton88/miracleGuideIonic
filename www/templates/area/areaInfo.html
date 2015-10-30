@@ -1,0 +1,23 @@
+<ion-view view-title="{{area.name}}">
+    <ion-content>
+
+        <div class="row">
+                <div image-lazy-src="{{area.imageLink}}" area-name="{{area.translitName}}" class="col col-50"></div>
+                <!--<img class="people-bar-content-person" ng-src="{{getImage('large-0f62e3f75b57.jpg')}}" />-->
+                <!--<img src="{{area.imageLink}}" width="100%">-->
+            <div class="col">
+                <ul>
+                    <li>Количество трасс:</li>
+                    <li>Уровень трасс: </li>
+                </ul>
+                </div>
+            </div>
+
+
+        <ion-list>
+            <ion-item ng-repeat="topo in area.topos" href="#/app/topo/{{topo.name}}">
+                {{topo.name}}
+            </ion-item>
+        </ion-list>
+    </ion-content>
+</ion-view>

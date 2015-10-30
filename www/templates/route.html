@@ -2,10 +2,12 @@
   <ion-content style="height: 500px;">
 
     <!--<div id='canvas-container'></div>-->
-
-    <img src="{{route.imageLink}}" width="100%" id="route-img">
+      <div image-lazy-src="{{route.imageLink}}" area-name="triangular_lake"></div>
+      <!--todo: uncomment-->
+    <!--<img src="{{route.imageLink}}" width="100%" id="route-img">-->
 
     <!--<div linear-chart chart-data="salesData"></div>-->
+      <!--todo: unomment-->
     <div svg-route lines-data="linesData"></div>
 
     <!--<br>-->
@@ -13,6 +15,5 @@
     <!--<svg width="720" height="120">-->
     <!--<circle cx="120" cy="60" r="10"></circle>-->
       <!--</svg>-->
-
   </ion-content>
 </ion-view>

@@ -1,0 +1,1713 @@
+{"topos": [
+    {
+        "coordinates": {
+            "latitude": 61.109581,
+            "longitude": 29.166641
+        },
+        "routes": [
+            {
+                "description": "Boulder, 6C at Mosquitos (boulder), Triangular lake in the area of Svetogorsk, Russian Federation",
+                "level": "6C",
+                "sectorName": "Mosquitos (boulder)",
+                "line": {
+                    "plotWindth": 560,
+                    "plotHeight": 375,
+                    "points": [
+                        {
+                            "x": 221,
+                            "y": 278
+                        },
+                        {
+                            "x": 211,
+                            "y": 185
+                        },
+                        {
+                            "x": 317,
+                            "y": 114
+                        },
+                        {
+                            "x": 339,
+                            "y": 96
+                        }
+                    ]
+                },
+                "id": 0,
+                "link": "https://27crags.com//crags/triangular-lake/routes/14486",
+                "name": "Линолеум",
+                "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/041/41102/large-fa5424bef3fe.jpg"
+            }
+        ],
+        "id": 0,
+        "link": "https://27crags.com//crags/triangular-lake/topos/mosquitos-2048",
+        "name": "Mosquitos (boulder)",
+        "translitName": "mosquitos_(boulder)",
+        "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/041/41102/huge-24bef3fe3f6f.jpg"
+    },
+    {
+        "coordinates": {
+            "latitude": 61.111447,
+            "longitude": 29.162865
+        },
+        "routes": [],
+        "id": 0,
+        "link": "https://27crags.com//crags/triangular-lake/topos/8321",
+        "name": "Основной массив",
+        "translitName": "osnovnoi_massiv"
+    },
+    {
+        "coordinates": {
+            "latitude": 61.110452,
+            "longitude": 29.16501
+        },
+        "routes": [
+            {
+                "description": "Boulder, 6B at Стоянка, Triangular lake in the area of Svetogorsk, Russian Federation",
+                "level": "6B",
+                "sectorName": "Стоянка",
+                "line": {
+                    "plotWindth": 560,
+                    "plotHeight": 416,
+                    "points": [
+                        {
+                            "x": 184,
+                            "y": 162
+                        }
+                    ]
+                },
+                "id": 0,
+                "link": "https://27crags.com//crags/triangular-lake/routes/14492",
+                "name": "Монашка",
+                "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/033/33602/large-94212413e071.jpg"
+            },
+            {
+                "description": "Boulder, 7C at Стоянка, Triangular lake in the area of Svetogorsk, Russian Federation",
+                "level": "7C",
+                "sectorName": "Стоянка",
+                "line": {
+                    "plotWindth": 560,
+                    "plotHeight": 375,
+                    "points": [
+                        {
+                            "x": 200,
+                            "y": 274
+                        },
+                        {
+                            "x": 200,
+                            "y": 181
+                        },
+                        {
+                            "x": 186,
+                            "y": 110
+                        }
+                    ]
+                },
+                "id": 0,
+                "link": "https://27crags.com//crags/triangular-lake/routes/one-blood",
+                "name": "One Blood",
+                "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/041/41114/large-07414c4f7800.jpg"
+            },
+            {
+                "description": "Boulder, 7C+ at Стоянка, Triangular lake in the area of Svetogorsk, Russian Federation",
+                "level": "7C+",
+                "sectorName": "Стоянка",
+                "line": {
+                    "plotWindth": 560,
+                    "plotHeight": 375,
+                    "points": [
+                        {
+                            "x": 420,
+                            "y": 208
+                        },
+                        {
+                            "x": 399,
+                            "y": 105
+                        },
+                        {
+                            "x": 315,
+                            "y": 82
+                        },
+                        {
+                            "x": 303,
+                            "y": 51
+                        }
+                    ]
+                },
+                "id": 0,
+                "link": "https://27crags.com//crags/triangular-lake/routes/i-need-help",
+                "name": "I need help",
+                "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/041/41114/large-07414c4f7800.jpg"
+            },
+            {
+                "description": "Boulder, 7C at Стоянка, Triangular lake in the area of Svetogorsk, Russian Federation",
+                "level": "7C",
+                "sectorName": "Стоянка",
+                "line": {
+                    "plotWindth": 560,
+                    "plotHeight": 375,
+                    "points": [
+                        {
+                            "x": 338,
+                            "y": 306
+                        },
+                        {
+                            "x": 294,
+                            "y": 175
+                        },
+                        {
+                            "x": 234,
+                            "y": 164
+                        },
+                        {
+                            "x": 197,
+                            "y": 109
+                        }
+                    ]
+                },
+                "id": 0,
+                "link": "https://27crags.com//crags/triangular-lake/routes/14501",
+                "name": "Нормальные герои всегда идут в обход",
+                "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/041/41114/large-07414c4f7800.jpg"
+            },
+            {
+                "description": "Boulder, 6A at Стоянка, Triangular lake in the area of Svetogorsk, Russian Federation",
+                "level": "6A",
+                "sectorName": "Стоянка",
+                "line": {
+                    "plotWindth": 560,
+                    "plotHeight": 375,
+                    "points": [
+                        {
+                            "x": 76,
+                            "y": 267
+                        },
+                        {
+                            "x": 173,
+                            "y": 172
+                        },
+                        {
+                            "x": 180,
+                            "y": 108
+                        }
+                    ]
+                },
+                "id": 0,
+                "link": "https://27crags.com//crags/triangular-lake/routes/14497",
+                "name": "Двойной Экстаз",
+                "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/041/41114/large-07414c4f7800.jpg"
+            },
+            {
+                "description": "Boulder, 6B at Стоянка, Triangular lake in the area of Svetogorsk, Russian Federation",
+                "level": "6B",
+                "sectorName": "Стоянка",
+                "line": {
+                    "plotWindth": 560,
+                    "plotHeight": 416,
+                    "points": [
+                        {
+                            "x": 231,
+                            "y": 124
+                        }
+                    ]
+                },
+                "id": 0,
+                "link": "https://27crags.com//crags/triangular-lake/routes/mission-possible",
+                "name": "Mission Possible",
+                "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/033/33602/large-94212413e071.jpg"
+            },
+            {
+                "description": "Boulder, 6B+ at Стоянка, Triangular lake in the area of Svetogorsk, Russian Federation",
+                "level": "6B+",
+                "sectorName": "Стоянка",
+                "line": {
+                    "plotWindth": 560,
+                    "plotHeight": 416,
+                    "points": [
+                        {
+                            "x": 351,
+                            "y": 256
+                        }
+                    ]
+                },
+                "id": 0,
+                "link": "https://27crags.com//crags/triangular-lake/routes/14490",
+                "name": "Стрекоза",
+                "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/033/33602/large-94212413e071.jpg"
+            },
+            {
+                "description": "Boulder, 6A at Стоянка, Triangular lake in the area of Svetogorsk, Russian Federation",
+                "level": "6A",
+                "sectorName": "Стоянка",
+                "line": {
+                    "plotWindth": 560,
+                    "plotHeight": 416,
+                    "points": [
+                        {
+                            "x": 371,
+                            "y": 272
+                        }
+                    ]
+                },
+                "id": 0,
+                "link": "https://27crags.com//crags/triangular-lake/routes/14489",
+                "name": "Колобок",
+                "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/033/33602/large-94212413e071.jpg"
+            },
+            {
+                "description": "Boulder, 7C+ at Стоянка, Triangular lake in the area of Svetogorsk, Russian Federation",
+                "level": "7C+",
+                "sectorName": "Стоянка",
+                "line": {
+                    "plotWindth": 560,
+                    "plotHeight": 375,
+                    "points": [
+                        {
+                            "x": 347,
+                            "y": 306
+                        },
+                        {
+                            "x": 306,
+                            "y": 161
+                        },
+                        {
+                            "x": 292,
+                            "y": 58
+                        }
+                    ]
+                },
+                "id": 0,
+                "link": "https://27crags.com//crags/triangular-lake/routes/redrum-14499",
+                "name": "Redrum",
+                "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/041/41114/large-07414c4f7800.jpg"
+            },
+            {
+                "description": "Boulder, 6B at Стоянка, Triangular lake in the area of Svetogorsk, Russian Federation",
+                "level": "6B",
+                "sectorName": "Стоянка",
+                "line": {
+                    "plotWindth": 547,
+                    "plotHeight": 479,
+                    "points": [
+                        {
+                            "x": 284,
+                            "y": 374
+                        },
+                        {
+                            "x": 302,
+                            "y": 83
+                        }
+                    ]
+                },
+                "id": 0,
+                "link": "https://27crags.com//crags/triangular-lake/routes/no-emotion",
+                "name": "No Emotion",
+                "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/069/69464/large-38c73b8c7f14.jpg"
+            },
+            {
+                "description": "Boulder, 6B at Стоянка, Triangular lake in the area of Svetogorsk, Russian Federation",
+                "level": "6B",
+                "sectorName": "Стоянка",
+                "line": {
+                    "plotWindth": 560,
+                    "plotHeight": 416,
+                    "points": [
+                        {
+                            "x": 217,
+                            "y": 91
+                        },
+                        {
+                            "x": 225,
+                            "y": 85
+                        }
+                    ]
+                },
+                "id": 0,
+                "link": "https://27crags.com//crags/triangular-lake/routes/no-emotion-106898",
+                "name": "No Emotion",
+                "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/033/33602/large-94212413e071.jpg"
+            },
+            {
+                "description": "Boulder, 8B at Стоянка, Triangular lake in the area of Svetogorsk, Russian Federation",
+                "level": "8B",
+                "sectorName": "Стоянка",
+                "line": {
+                    "plotWindth": 560,
+                    "plotHeight": 375,
+                    "points": [
+                        {
+                            "x": 354,
+                            "y": 304
+                        },
+                        {
+                            "x": 365,
+                            "y": 252
+                        },
+                        {
+                            "x": 410,
+                            "y": 203
+                        },
+                        {
+                            "x": 426,
+                            "y": 143
+                        },
+                        {
+                            "x": 391,
+                            "y": 96
+                        },
+                        {
+                            "x": 320,
+                            "y": 68
+                        },
+                        {
+                            "x": 304,
+                            "y": 43
+                        }
+                    ]
+                },
+                "id": 0,
+                "link": "https://27crags.com//crags/triangular-lake/routes/i-need-help-sds",
+                "name": "I need help SDS",
+                "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/041/41114/large-07414c4f7800.jpg"
+            },
+            {
+                "description": "Boulder, 6C+ at Стоянка, Triangular lake in the area of Svetogorsk, Russian Federation",
+                "level": "6C+",
+                "sectorName": "Стоянка",
+                "line": {
+                    "plotWindth": 560,
+                    "plotHeight": 372,
+                    "points": [
+                        {
+                            "x": 425,
+                            "y": 280
+                        },
+                        {
+                            "x": 450,
+                            "y": 128
+                        }
+                    ]
+                },
+                "id": 0,
+                "link": "https://27crags.com//crags/triangular-lake/routes/sosna",
+                "name": "Sosna",
+                "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/069/69461/large-ce2c2da59f75.jpg"
+            },
+            {
+                "description": "Boulder, 6C at Стоянка, Triangular lake in the area of Svetogorsk, Russian Federation",
+                "level": "6C",
+                "sectorName": "Стоянка",
+                "line": {
+                    "plotWindth": 547,
+                    "plotHeight": 479,
+                    "points": [
+                        {
+                            "x": 462,
+                            "y": 367
+                        },
+                        {
+                            "x": 516,
+                            "y": 238
+                        }
+                    ]
+                },
+                "id": 0,
+                "link": "https://27crags.com//crags/triangular-lake/routes/14495",
+                "name": "Кристалл",
+                "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/069/69464/large-38c73b8c7f14.jpg"
+            },
+            {
+                "description": "Boulder, 6C+ at Стоянка, Triangular lake in the area of Svetogorsk, Russian Federation",
+                "level": "6C+",
+                "sectorName": "Стоянка",
+                "line": {
+                    "plotWindth": 560,
+                    "plotHeight": 416,
+                    "points": [
+                        {
+                            "x": 358,
+                            "y": 268
+                        }
+                    ]
+                },
+                "id": 0,
+                "link": "https://27crags.com//crags/triangular-lake/routes/14491",
+                "name": "Сосна",
+                "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/033/33602/large-94212413e071.jpg"
+            },
+            {
+                "description": "Boulder, 6C at Стоянка, Triangular lake in the area of Svetogorsk, Russian Federation",
+                "level": "6C",
+                "sectorName": "Стоянка",
+                "line": {
+                    "plotWindth": 560,
+                    "plotHeight": 416,
+                    "points": [
+                        {
+                            "x": 185,
+                            "y": 81
+                        },
+                        {
+                            "x": 189,
+                            "y": 83
+                        }
+                    ]
+                },
+                "id": 0,
+                "link": "https://27crags.com//crags/triangular-lake/routes/14496",
+                "name": "Табурет",
+                "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/033/33602/large-94212413e071.jpg"
+            },
+            {
+                "description": "Boulder, 6B at Стоянка, Triangular lake in the area of Svetogorsk, Russian Federation",
+                "level": "6B",
+                "sectorName": "Стоянка",
+                "line": {
+                    "plotWindth": 560,
+                    "plotHeight": 416,
+                    "points": [
+                        {
+                            "x": 229,
+                            "y": 91
+                        },
+                        {
+                            "x": 216,
+                            "y": 102
+                        }
+                    ]
+                },
+                "id": 0,
+                "link": "https://27crags.com//crags/triangular-lake/routes/fantik",
+                "name": "Fantik",
+                "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/033/33602/large-94212413e071.jpg"
+            },
+            {
+                "description": "Boulder, 7B+ at Стоянка, Triangular lake in the area of Svetogorsk, Russian Federation",
+                "level": "7B+",
+                "sectorName": "Стоянка",
+                "line": {
+                    "plotWindth": 560,
+                    "plotHeight": 416,
+                    "points": [
+                        {
+                            "x": 168,
+                            "y": 158
+                        }
+                    ]
+                },
+                "id": 0,
+                "link": "https://27crags.com//crags/triangular-lake/routes/14493",
+                "name": "Положилово на все",
+                "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/033/33602/large-94212413e071.jpg"
+            }
+        ],
+        "id": 0,
+        "link": "https://27crags.com//crags/triangular-lake/topos/2047",
+        "name": "Стоянка",
+        "translitName": "stoyanka",
+        "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/033/33602/huge-2413e071e066.jpg"
+    },
+    {
+        "coordinates": {
+            "latitude": 61.124423,
+            "longitude": 29.175911
+        },
+        "routes": [],
+        "id": 0,
+        "link": "https://27crags.com//crags/triangular-lake/topos/lost-world-boulder",
+        "name": "Lost World (boulder)",
+        "translitName": "lost_world_(boulder)",
+        "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/033/33206/huge-9609ecdfbbfa.jpg"
+    },
+    {
+        "coordinates": {
+            "latitude": 61.109954,
+            "longitude": 29.166109
+        },
+        "routes": [
+            {
+                "description": "Boulder, 7A at Развал под основным массивом., Triangular lake in the area of Svetogorsk, Russian Federation",
+                "level": "7A",
+                "sectorName": "Развал под основным массивом.",
+                "line": {
+                    "plotWindth": 560,
+                    "plotHeight": 375,
+                    "points": [
+                        {
+                            "x": 263,
+                            "y": 253
+                        },
+                        {
+                            "x": 286,
+                            "y": 126
+                        },
+                        {
+                            "x": 242,
+                            "y": 39
+                        }
+                    ]
+                },
+                "id": 0,
+                "link": "https://27crags.com//crags/triangular-lake/routes/happy-tree-friends",
+                "name": "Happy tree friends",
+                "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/041/41444/large-d8fa14efb891.jpg"
+            },
+            {
+                "description": "Boulder, 7C+ at Развал под основным массивом., Triangular lake in the area of Svetogorsk, Russian Federation",
+                "level": "7C+",
+                "sectorName": "Развал под основным массивом.",
+                "line": {
+                    "plotWindth": 560,
+                    "plotHeight": 372,
+                    "points": [
+                        {
+                            "x": 253,
+                            "y": 301
+                        },
+                        {
+                            "x": 240,
+                            "y": 247
+                        },
+                        {
+                            "x": 256,
+                            "y": 225
+                        },
+                        {
+                            "x": 298,
+                            "y": 211
+                        },
+                        {
+                            "x": 317,
+                            "y": 178
+                        },
+                        {
+                            "x": 323,
+                            "y": 164
+                        },
+                        {
+                            "x": 367,
+                            "y": 172
+                        },
+                        {
+                            "x": 375,
+                            "y": 172
+                        },
+                        {
+                            "x": 281,
+                            "y": 43
+                        }
+                    ]
+                },
+                "id": 0,
+                "link": "https://27crags.com//crags/triangular-lake/routes/made-in-america",
+                "name": "Made in America",
+                "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/074/74680/large-d2a59bf8900e.jpg"
+            },
+            {
+                "description": "Boulder, 7B+ at Развал под основным массивом., Triangular lake in the area of Svetogorsk, Russian Federation",
+                "level": "7B+",
+                "sectorName": "Развал под основным массивом.",
+                "line": {
+                    "plotWindth": 375,
+                    "plotHeight": 560,
+                    "points": [
+                        {
+                            "x": 234,
+                            "y": 385
+                        },
+                        {
+                            "x": 232,
+                            "y": 270
+                        }
+                    ]
+                },
+                "id": 0,
+                "link": "https://27crags.com//crags/triangular-lake/routes/goodwin",
+                "name": "Goodwin",
+                "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/041/41456/large-b860c625bb9c.jpg"
+            },
+            {
+                "description": "Boulder, 7C at Развал под основным массивом., Triangular lake in the area of Svetogorsk, Russian Federation",
+                "level": "7C",
+                "sectorName": "Развал под основным массивом.",
+                "line": {
+                    "plotWindth": 375,
+                    "plotHeight": 560,
+                    "points": [
+                        {
+                            "x": 153,
+                            "y": 453
+                        },
+                        {
+                            "x": 260,
+                            "y": 298
+                        },
+                        {
+                            "x": 286,
+                            "y": 233
+                        },
+                        {
+                            "x": 270,
+                            "y": 137
+                        },
+                        {
+                            "x": 170,
+                            "y": 18
+                        }
+                    ]
+                },
+                "id": 0,
+                "link": "https://27crags.com//crags/triangular-lake/routes/deja-vu-16915",
+                "name": "Déjà vu",
+                "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/041/41438/large-eb79e81a1815.jpg"
+            },
+            {
+                "description": "Boulder, 7A+ at Развал под основным массивом., Triangular lake in the area of Svetogorsk, Russian Federation",
+                "level": "7A+",
+                "sectorName": "Развал под основным массивом.",
+                "line": {
+                    "plotWindth": 560,
+                    "plotHeight": 374,
+                    "points": [
+                        {
+                            "x": 407,
+                            "y": 283
+                        },
+                        {
+                            "x": 431,
+                            "y": 254
+                        }
+                    ]
+                },
+                "id": 0,
+                "link": "https://27crags.com//crags/triangular-lake/routes/24052",
+                "name": "Брюква",
+                "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/033/33104/large-6d3774b91f40.jpg"
+            },
+            {
+                "description": "Boulder, 7B at Развал под основным массивом., Triangular lake in the area of Svetogorsk, Russian Federation",
+                "level": "7B",
+                "sectorName": "Развал под основным массивом.",
+                "line": {
+                    "plotWindth": 420,
+                    "plotHeight": 560,
+                    "points": [
+                        {
+                            "x": 171,
+                            "y": 359
+                        },
+                        {
+                            "x": 140,
+                            "y": 278
+                        },
+                        {
+                            "x": 98,
+                            "y": 241
+                        },
+                        {
+                            "x": 77,
+                            "y": 165
+                        },
+                        {
+                            "x": 58,
+                            "y": 123
+                        }
+                    ]
+                },
+                "id": 0,
+                "link": "https://27crags.com//crags/triangular-lake/routes/16918",
+                "name": "Дождь",
+                "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/068/68189/large-be68cabf817c.jpg"
+            },
+            {
+                "description": "Boulder, 7C+ at Развал под основным массивом., Triangular lake in the area of Svetogorsk, Russian Federation",
+                "level": "7C+",
+                "sectorName": "Развал под основным массивом.",
+                "line": {
+                    "plotWindth": 375,
+                    "plotHeight": 560,
+                    "points": [
+                        {
+                            "x": 78,
+                            "y": 489
+                        },
+                        {
+                            "x": 66,
+                            "y": 459
+                        },
+                        {
+                            "x": 113,
+                            "y": 389
+                        },
+                        {
+                            "x": 234,
+                            "y": 283
+                        },
+                        {
+                            "x": 217,
+                            "y": 93
+                        }
+                    ]
+                },
+                "id": 0,
+                "link": "https://27crags.com//crags/triangular-lake/routes/16076",
+                "name": "Заклинатель змей",
+                "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/041/41456/large-b860c625bb9c.jpg"
+            },
+            {
+                "description": "Boulder, 7B at Развал под основным массивом., Triangular lake in the area of Svetogorsk, Russian Federation",
+                "level": "7B",
+                "sectorName": "Развал под основным массивом.",
+                "line": {
+                    "plotWindth": 560,
+                    "plotHeight": 375,
+                    "points": [
+                        {
+                            "x": 299,
+                            "y": 291
+                        },
+                        {
+                            "x": 329,
+                            "y": 264
+                        },
+                        {
+                            "x": 315,
+                            "y": 166
+                        }
+                    ]
+                },
+                "id": 0,
+                "link": "https://27crags.com//crags/triangular-lake/routes/new-born",
+                "name": "New born",
+                "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/041/41078/large-3ef17a2ca917.jpg"
+            },
+            {
+                "description": "Boulder, 6B+ at Развал под основным массивом., Triangular lake in the area of Svetogorsk, Russian Federation",
+                "level": "6B+",
+                "sectorName": "Развал под основным массивом.",
+                "line": {
+                    "plotWindth": 560,
+                    "plotHeight": 374,
+                    "points": [
+                        {
+                            "x": 190,
+                            "y": 212
+                        },
+                        {
+                            "x": 123,
+                            "y": 181
+                        },
+                        {
+                            "x": 88,
+                            "y": 146
+                        },
+                        {
+                            "x": 75,
+                            "y": 87
+                        },
+                        {
+                            "x": 74,
+                            "y": 4
+                        }
+                    ]
+                },
+                "id": 0,
+                "link": "https://27crags.com//crags/triangular-lake/routes/2-16825",
+                "name": "Пила - 2",
+                "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/033/33104/large-6d3774b91f40.jpg"
+            },
+            {
+                "description": "Boulder, 6B+ at Развал под основным массивом., Triangular lake in the area of Svetogorsk, Russian Federation",
+                "level": "6B+",
+                "sectorName": "Развал под основным массивом.",
+                "line": {
+                    "plotWindth": 560,
+                    "plotHeight": 374,
+                    "points": [
+                        {
+                            "x": 325,
+                            "y": 221
+                        },
+                        {
+                            "x": 368,
+                            "y": 171
+                        },
+                        {
+                            "x": 345,
+                            "y": 105
+                        }
+                    ]
+                },
+                "id": 0,
+                "link": "https://27crags.com//crags/triangular-lake/routes/novaja-volna",
+                "name": "Новая волна",
+                "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/033/33104/large-6d3774b91f40.jpg"
+            },
+            {
+                "description": "Boulder, 5 at Развал под основным массивом., Triangular lake in the area of Svetogorsk, Russian Federation",
+                "level": "5",
+                "sectorName": "Развал под основным массивом.",
+                "line": {
+                    "plotWindth": 560,
+                    "plotHeight": 374,
+                    "points": [
+                        {
+                            "x": 24,
+                            "y": 135
+                        },
+                        {
+                            "x": 54,
+                            "y": 93
+                        },
+                        {
+                            "x": 70,
+                            "y": 3
+                        }
+                    ]
+                },
+                "id": 0,
+                "link": "https://27crags.com//crags/triangular-lake/routes/ely-paly",
+                "name": "Ely-paly",
+                "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/033/33104/large-6d3774b91f40.jpg"
+            },
+            {
+                "description": "Boulder, 7B+ at Развал под основным массивом., Triangular lake in the area of Svetogorsk, Russian Federation",
+                "level": "7B+",
+                "sectorName": "Развал под основным массивом.",
+                "line": {
+                    "plotWindth": 560,
+                    "plotHeight": 375,
+                    "points": [
+                        {
+                            "x": 260,
+                            "y": 332
+                        },
+                        {
+                            "x": 269,
+                            "y": 293
+                        },
+                        {
+                            "x": 244,
+                            "y": 271
+                        },
+                        {
+                            "x": 232,
+                            "y": 233
+                        },
+                        {
+                            "x": 228,
+                            "y": 209
+                        }
+                    ]
+                },
+                "id": 0,
+                "link": "https://27crags.com//crags/triangular-lake/routes/14488",
+                "name": "Пятый Элемент",
+                "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/041/41072/large-19fcde1cb34d.jpg"
+            },
+            {
+                "description": "Boulder, 7B (hard, 7B+ maybe) at Развал под основным массивом., Triangular lake in the area of Svetogorsk, Russian Federation",
+                "line": {
+                    "plotWindth": 560,
+                    "plotHeight": 375,
+                    "points": [
+                        {
+                            "x": 407,
+                            "y": 228
+                        },
+                        {
+                            "x": 326,
+                            "y": 234
+                        },
+                        {
+                            "x": 158,
+                            "y": 225
+                        },
+                        {
+                            "x": 116,
+                            "y": 181
+                        },
+                        {
+                            "x": 127,
+                            "y": 61
+                        }
+                    ]
+                },
+                "id": 0,
+                "link": "https://27crags.com//crags/triangular-lake/routes/pin-code",
+                "name": "PIN-code",
+                "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/041/41444/large-d8fa14efb891.jpg"
+            },
+            {
+                "description": "Boulder, 7A+ (stand start 6B?) at Развал под основным массивом., Triangular lake in the area of Svetogorsk, Russian Federation",
+                "level": "7A+ (stand start 6B?)",
+                "sectorName": "Развал под основным массивом.",
+                "line": {
+                    "plotWindth": 560,
+                    "plotHeight": 375,
+                    "points": [
+                        {
+                            "x": 438,
+                            "y": 290
+                        },
+                        {
+                            "x": 398,
+                            "y": 224
+                        },
+                        {
+                            "x": 416,
+                            "y": 182
+                        },
+                        {
+                            "x": 405,
+                            "y": 131
+                        }
+                    ]
+                },
+                "id": 0,
+                "link": "https://27crags.com//crags/triangular-lake/routes/sds",
+                "name": "Гильотина sds",
+                "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/041/41078/large-3ef17a2ca917.jpg"
+            },
+            {
+                "description": "Boulder, 7B at Развал под основным массивом., Triangular lake in the area of Svetogorsk, Russian Federation",
+                "level": "7B",
+                "sectorName": "Развал под основным массивом.",
+                "line": {
+                    "plotWindth": 375,
+                    "plotHeight": 560,
+                    "points": [
+                        {
+                            "x": 155,
+                            "y": 393
+                        },
+                        {
+                            "x": 122,
+                            "y": 192
+                        },
+                        {
+                            "x": 137,
+                            "y": 115
+                        },
+                        {
+                            "x": 184,
+                            "y": 57
+                        }
+                    ]
+                },
+                "id": 0,
+                "link": "https://27crags.com//crags/triangular-lake/routes/16916",
+                "name": "Магмель",
+                "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/041/41450/large-e730ed470a48.jpg"
+            },
+            {
+                "description": "Boulder, 7C at Развал под основным массивом., Triangular lake in the area of Svetogorsk, Russian Federation",
+                "level": "7C",
+                "sectorName": "Развал под основным массивом.",
+                "line": {
+                    "plotWindth": 560,
+                    "plotHeight": 375,
+                    "points": [
+                        {
+                            "x": 204,
+                            "y": 281
+                        },
+                        {
+                            "x": 191,
+                            "y": 236
+                        },
+                        {
+                            "x": 206,
+                            "y": 186
+                        }
+                    ]
+                },
+                "id": 0,
+                "link": "https://27crags.com//crags/triangular-lake/routes/suomen-ragazze",
+                "name": "Suomen ragazze",
+                "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/041/41078/large-3ef17a2ca917.jpg"
+            },
+            {
+                "description": "Boulder, 8A+ at Развал под основным массивом., Triangular lake in the area of Svetogorsk, Russian Federation",
+                "level": "8A+",
+                "sectorName": "Развал под основным массивом.",
+                "line": {
+                    "plotWindth": 492,
+                    "plotHeight": 560,
+                    "points": [
+                        {
+                            "x": 172,
+                            "y": 513
+                        },
+                        {
+                            "x": 237,
+                            "y": 461
+                        },
+                        {
+                            "x": 256,
+                            "y": 450
+                        },
+                        {
+                            "x": 287,
+                            "y": 440
+                        },
+                        {
+                            "x": 311,
+                            "y": 420
+                        },
+                        {
+                            "x": 379,
+                            "y": 351
+                        },
+                        {
+                            "x": 395,
+                            "y": 320
+                        },
+                        {
+                            "x": 412,
+                            "y": 245
+                        },
+                        {
+                            "x": 422,
+                            "y": 134
+                        }
+                    ]
+                },
+                "id": 0,
+                "link": "https://27crags.com//crags/triangular-lake/routes/proj-126765",
+                "name": "Russkaya ruletka sds",
+                "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/076/76563/large-4e6f670f5de2.jpg"
+            },
+            {
+                "description": "Boulder, 7A at Развал под основным массивом., Triangular lake in the area of Svetogorsk, Russian Federation",
+                "level": "7A",
+                "sectorName": "Развал под основным массивом.",
+                "line": {
+                    "plotWindth": 560,
+                    "plotHeight": 396,
+                    "points": [
+                        {
+                            "x": 280,
+                            "y": 105
+                        }
+                    ]
+                },
+                "id": 0,
+                "link": "https://27crags.com//crags/triangular-lake/routes/do-or-die-104305",
+                "name": "Do or Die",
+                "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/040/40856/large-61353ff12bed.png"
+            },
+            {
+                "description": "Boulder, 5+ at Развал под основным массивом., Triangular lake in the area of Svetogorsk, Russian Federation",
+                "level": "5+",
+                "sectorName": "Развал под основным массивом.",
+                "line": {
+                    "plotWindth": 372,
+                    "plotHeight": 560,
+                    "points": [
+                        {
+                            "x": 208,
+                            "y": 424
+                        },
+                        {
+                            "x": 125,
+                            "y": 399
+                        },
+                        {
+                            "x": 132,
+                            "y": 306
+                        },
+                        {
+                            "x": 113,
+                            "y": 222
+                        },
+                        {
+                            "x": 180,
+                            "y": 94
+                        },
+                        {
+                            "x": 150,
+                            "y": 24
+                        }
+                    ]
+                },
+                "id": 0,
+                "link": "https://27crags.com//crags/triangular-lake/routes/151266",
+                "name": "Ээ полегче",
+                "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/086/86763/large-aaffc78c3747.jpg"
+            },
+            {
+                "description": "Boulder, 7A at Развал под основным массивом., Triangular lake in the area of Svetogorsk, Russian Federation",
+                "level": "7A",
+                "sectorName": "Развал под основным массивом.",
+                "line": {
+                    "plotWindth": 560,
+                    "plotHeight": 375,
+                    "points": [
+                        {
+                            "x": 80,
+                            "y": 240
+                        },
+                        {
+                            "x": 97,
+                            "y": 189
+                        },
+                        {
+                            "x": 116,
+                            "y": 66
+                        }
+                    ]
+                },
+                "id": 0,
+                "link": "https://27crags.com//crags/triangular-lake/routes/14480",
+                "name": "Радиатор",
+                "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/041/41444/large-d8fa14efb891.jpg"
+            },
+            {
+                "description": "Boulder, 7C at Развал под основным массивом., Triangular lake in the area of Svetogorsk, Russian Federation",
+                "level": "7C",
+                "sectorName": "Развал под основным массивом.",
+                "line": {
+                    "plotWindth": 375,
+                    "plotHeight": 560,
+                    "points": [
+                        {
+                            "x": 210,
+                            "y": 472
+                        },
+                        {
+                            "x": 244,
+                            "y": 369
+                        },
+                        {
+                            "x": 120,
+                            "y": 321
+                        },
+                        {
+                            "x": 58,
+                            "y": 141
+                        }
+                    ]
+                },
+                "id": 0,
+                "link": "https://27crags.com//crags/triangular-lake/routes/little-people",
+                "name": "Little People",
+                "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/041/41432/large-c0bfbd0bc2fb.jpg"
+            },
+            {
+                "description": "Boulder, 7C at Развал под основным массивом., Triangular lake in the area of Svetogorsk, Russian Federation",
+                "level": "7C",
+                "sectorName": "Развал под основным массивом.",
+                "line": {
+                    "plotWindth": 492,
+                    "plotHeight": 560,
+                    "points": [
+                        {
+                            "x": 269,
+                            "y": 463
+                        },
+                        {
+                            "x": 332,
+                            "y": 413
+                        },
+                        {
+                            "x": 392,
+                            "y": 357
+                        },
+                        {
+                            "x": 418,
+                            "y": 290
+                        },
+                        {
+                            "x": 433,
+                            "y": 143
+                        }
+                    ]
+                },
+                "id": 0,
+                "link": "https://27crags.com//crags/triangular-lake/routes/104303",
+                "name": "Русская рулетка",
+                "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/076/76563/large-4e6f670f5de2.jpg"
+            },
+            {
+                "description": "Boulder, 7A+ at Развал под основным массивом., Triangular lake in the area of Svetogorsk, Russian Federation",
+                "level": "7A+",
+                "sectorName": "Развал под основным массивом.",
+                "line": {
+                    "plotWindth": 560,
+                    "plotHeight": 375,
+                    "points": [
+                        {
+                            "x": 127,
+                            "y": 278
+                        },
+                        {
+                            "x": 127,
+                            "y": 238
+                        },
+                        {
+                            "x": 179,
+                            "y": 226
+                        },
+                        {
+                            "x": 200,
+                            "y": 186
+                        }
+                    ]
+                },
+                "id": 0,
+                "link": "https://27crags.com//crags/triangular-lake/routes/seek-and-destroy",
+                "name": "Seek and destroy",
+                "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/041/41078/large-3ef17a2ca917.jpg"
+            },
+            {
+                "description": "Boulder, 7B+ at Развал под основным массивом., Triangular lake in the area of Svetogorsk, Russian Federation",
+                "level": "7B+",
+                "sectorName": "Развал под основным массивом.",
+                "line": {
+                    "plotWindth": 420,
+                    "plotHeight": 560,
+                    "points": [
+                        {
+                            "x": 178,
+                            "y": 353
+                        },
+                        {
+                            "x": 200,
+                            "y": 60
+                        }
+                    ]
+                },
+                "id": 0,
+                "link": "https://27crags.com//crags/triangular-lake/routes/103023",
+                "name": "Вертолет",
+                "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/068/68189/large-be68cabf817c.jpg"
+            },
+            {
+                "description": "Boulder, 7B at Развал под основным массивом., Triangular lake in the area of Svetogorsk, Russian Federation",
+                "level": "7B",
+                "sectorName": "Развал под основным массивом.",
+                "line": {
+                    "plotWindth": 373,
+                    "plotHeight": 560,
+                    "points": [
+                        {
+                            "x": 232,
+                            "y": 417
+                        },
+                        {
+                            "x": 221,
+                            "y": 379
+                        },
+                        {
+                            "x": 219,
+                            "y": 370
+                        },
+                        {
+                            "x": 219,
+                            "y": 366
+                        },
+                        {
+                            "x": 220,
+                            "y": 366
+                        },
+                        {
+                            "x": 231,
+                            "y": 360
+                        },
+                        {
+                            "x": 247,
+                            "y": 361
+                        },
+                        {
+                            "x": 257,
+                            "y": 357
+                        },
+                        {
+                            "x": 263,
+                            "y": 352
+                        }
+                    ]
+                },
+                "id": 0,
+                "link": "https://27crags.com//crags/triangular-lake/routes/cherez-terni-k-zvezdam",
+                "name": "Cherez terni k zvezdam",
+                "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/052/52593/large-de364c22efb8.jpg"
+            },
+            {
+                "description": "Boulder, 7A+ at Развал под основным массивом., Triangular lake in the area of Svetogorsk, Russian Federation",
+                "level": "7A+",
+                "sectorName": "Развал под основным массивом.",
+                "line": {
+                    "plotWindth": 560,
+                    "plotHeight": 375,
+                    "points": [
+                        {
+                            "x": 154,
+                            "y": 215
+                        }
+                    ]
+                },
+                "id": 0,
+                "link": "https://27crags.com//crags/triangular-lake/routes/sks",
+                "name": "SKS",
+                "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/041/41444/large-d8fa14efb891.jpg"
+            },
+            {
+                "description": "Boulder, 6A at Развал под основным массивом., Triangular lake in the area of Svetogorsk, Russian Federation",
+                "level": "6A",
+                "sectorName": "Развал под основным массивом.",
+                "line": {
+                    "plotWindth": 372,
+                    "plotHeight": 560,
+                    "points": [
+                        {
+                            "x": 221,
+                            "y": 427
+                        },
+                        {
+                            "x": 266,
+                            "y": 337
+                        },
+                        {
+                            "x": 300,
+                            "y": 220
+                        },
+                        {
+                            "x": 298,
+                            "y": 108
+                        },
+                        {
+                            "x": 282,
+                            "y": 77
+                        }
+                    ]
+                },
+                "id": 0,
+                "link": "https://27crags.com//crags/triangular-lake/routes/151265",
+                "name": "Берегите голову",
+                "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/086/86763/large-aaffc78c3747.jpg"
+            },
+            {
+                "description": "Boulder, 7B at Развал под основным массивом., Triangular lake in the area of Svetogorsk, Russian Federation",
+                "level": "7B",
+                "sectorName": "Развал под основным массивом.",
+                "line": {
+                    "plotWindth": 375,
+                    "plotHeight": 560,
+                    "points": [
+                        {
+                            "x": 86,
+                            "y": 419
+                        }
+                    ]
+                },
+                "id": 0,
+                "link": "https://27crags.com//crags/triangular-lake/routes/16824",
+                "name": "Очковая кобра",
+                "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/041/41456/large-b860c625bb9c.jpg"
+            },
+            {
+                "description": "Boulder, 7A (6C?) at Развал под основным массивом., Triangular lake in the area of Svetogorsk, Russian Federation",
+                "level": "7A (6C?)",
+                "sectorName": "Развал под основным массивом.",
+                "line": {
+                    "plotWindth": 560,
+                    "plotHeight": 375,
+                    "points": [
+                        {
+                            "x": 273,
+                            "y": 190
+                        },
+                        {
+                            "x": 267,
+                            "y": 155
+                        },
+                        {
+                            "x": 405,
+                            "y": 78
+                        }
+                    ]
+                },
+                "id": 0,
+                "link": "https://27crags.com//crags/triangular-lake/routes/60",
+                "name": "Трасса 60",
+                "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/041/41090/large-6d79dc9d26f0.jpg"
+            },
+            {
+                "description": "Boulder, 7A at Развал под основным массивом., Triangular lake in the area of Svetogorsk, Russian Federation",
+                "level": "7A",
+                "sectorName": "Развал под основным массивом.",
+                "line": {
+                    "plotWindth": 560,
+                    "plotHeight": 375,
+                    "points": [
+                        {
+                            "x": 162,
+                            "y": 208
+                        },
+                        {
+                            "x": 191,
+                            "y": 147
+                        },
+                        {
+                            "x": 217,
+                            "y": 35
+                        }
+                    ]
+                },
+                "id": 0,
+                "link": "https://27crags.com//crags/triangular-lake/routes/sks-direct",
+                "name": "SKS direct",
+                "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/041/41444/large-d8fa14efb891.jpg"
+            },
+            {
+                "description": "Boulder, 6C+ at Развал под основным массивом., Triangular lake in the area of Svetogorsk, Russian Federation",
+                "level": "6C+",
+                "sectorName": "Развал под основным массивом.",
+                "line": {
+                    "plotWindth": 560,
+                    "plotHeight": 375,
+                    "points": [
+                        {
+                            "x": 203,
+                            "y": 304
+                        },
+                        {
+                            "x": 214,
+                            "y": 285
+                        },
+                        {
+                            "x": 195,
+                            "y": 236
+                        },
+                        {
+                            "x": 186,
+                            "y": 162
+                        },
+                        {
+                            "x": 178,
+                            "y": 102
+                        }
+                    ]
+                },
+                "id": 0,
+                "link": "https://27crags.com//crags/triangular-lake/routes/la-ruletta",
+                "name": "La ruletta",
+                "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/041/41066/large-e293decaafae.jpg"
+            },
+            {
+                "description": "Boulder, 7A+ at Развал под основным массивом., Triangular lake in the area of Svetogorsk, Russian Federation",
+                "level": "7A+",
+                "sectorName": "Развал под основным массивом.",
+                "line": {
+                    "plotWindth": 560,
+                    "plotHeight": 373,
+                    "points": [
+                        {
+                            "x": 197,
+                            "y": 245
+                        },
+                        {
+                            "x": 256,
+                            "y": 212
+                        },
+                        {
+                            "x": 254,
+                            "y": 157
+                        },
+                        {
+                            "x": 215,
+                            "y": 106
+                        }
+                    ]
+                },
+                "id": 0,
+                "link": "https://27crags.com//crags/triangular-lake/routes/diesel-power-30224",
+                "name": "Diesel Power",
+                "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/052/52592/large-27945fa2e1d0.jpg"
+            },
+            {
+                "description": "Boulder, 7A at Развал под основным массивом., Triangular lake in the area of Svetogorsk, Russian Federation",
+                "level": "7A",
+                "sectorName": "Развал под основным массивом.",
+                "line": {
+                    "plotWindth": 420,
+                    "plotHeight": 560,
+                    "points": [
+                        {
+                            "x": 196,
+                            "y": 342
+                        },
+                        {
+                            "x": 209,
+                            "y": 153
+                        },
+                        {
+                            "x": 218,
+                            "y": 2
+                        }
+                    ]
+                },
+                "id": 0,
+                "link": "https://27crags.com//crags/triangular-lake/routes/158465",
+                "name": "Сердитый одуванчик",
+                "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/089/89947/large-d1be86e30490.jpg"
+            },
+            {
+                "description": "Boulder, 8A+ at Развал под основным массивом., Triangular lake in the area of Svetogorsk, Russian Federation",
+                "level": "8A+",
+                "sectorName": "Развал под основным массивом.",
+                "line": {
+                    "plotWindth": 560,
+                    "plotHeight": 372,
+                    "points": [
+                        {
+                            "x": 370,
+                            "y": 312
+                        },
+                        {
+                            "x": 351,
+                            "y": 291
+                        },
+                        {
+                            "x": 397,
+                            "y": 265
+                        },
+                        {
+                            "x": 441,
+                            "y": 244
+                        },
+                        {
+                            "x": 422,
+                            "y": 159
+                        }
+                    ]
+                },
+                "id": 0,
+                "link": "https://27crags.com//crags/triangular-lake/routes/14487",
+                "name": "Бабье Лето",
+                "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/075/75262/large-9bcd18a3868a.jpg"
+            },
+            {
+                "description": "Boulder, 6A at Развал под основным массивом., Triangular lake in the area of Svetogorsk, Russian Federation",
+                "level": "6A",
+                "sectorName": "Развал под основным массивом.",
+                "line": {
+                    "plotWindth": 560,
+                    "plotHeight": 375,
+                    "points": [
+                        {
+                            "x": 150,
+                            "y": 236
+                        },
+                        {
+                            "x": 214,
+                            "y": 149
+                        },
+                        {
+                            "x": 442,
+                            "y": 28
+                        }
+                    ]
+                },
+                "id": 0,
+                "link": "https://27crags.com//crags/triangular-lake/routes/16912",
+                "name": "Корыто",
+                "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/041/41090/large-6d79dc9d26f0.jpg"
+            },
+            {
+                "description": "Boulder, 7C at Развал под основным массивом., Triangular lake in the area of Svetogorsk, Russian Federation",
+                "level": "7C",
+                "sectorName": "Развал под основным массивом.",
+                "line": {
+                    "plotWindth": 375,
+                    "plotHeight": 560,
+                    "points": [
+                        {
+                            "x": 139,
+                            "y": 430
+                        },
+                        {
+                            "x": 116,
+                            "y": 396
+                        },
+                        {
+                            "x": 144,
+                            "y": 361
+                        }
+                    ]
+                },
+                "id": 0,
+                "link": "https://27crags.com//crags/triangular-lake/routes/16819",
+                "name": "Ходячий замок",
+                "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/041/41456/large-b860c625bb9c.jpg"
+            },
+            {
+                "description": "Boulder, 6A+ at Развал под основным массивом., Triangular lake in the area of Svetogorsk, Russian Federation",
+                "level": "6A+",
+                "sectorName": "Развал под основным массивом.",
+                "line": {
+                    "plotWindth": 420,
+                    "plotHeight": 560,
+                    "points": [
+                        {
+                            "x": 111,
+                            "y": 363
+                        },
+                        {
+                            "x": 241,
+                            "y": 292
+                        },
+                        {
+                            "x": 256,
+                            "y": 237
+                        },
+                        {
+                            "x": 197,
+                            "y": 115
+                        },
+                        {
+                            "x": 186,
+                            "y": 108
+                        }
+                    ]
+                },
+                "id": 0,
+                "link": "https://27crags.com//crags/triangular-lake/routes/127234",
+                "name": "Разминка Ы",
+                "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/076/76766/large-14f0c1caea90.jpg"
+            },
+            {
+                "description": "Boulder, 5 at Развал под основным массивом., Triangular lake in the area of Svetogorsk, Russian Federation",
+                "level": "5",
+                "sectorName": "Развал под основным массивом.",
+                "line": {
+                    "plotWindth": 560,
+                    "plotHeight": 374,
+                    "points": [
+                        {
+                            "x": 205,
+                            "y": 209
+                        },
+                        {
+                            "x": 279,
+                            "y": 162
+                        },
+                        {
+                            "x": 301,
+                            "y": 64
+                        }
+                    ]
+                },
+                "id": 0,
+                "link": "https://27crags.com//crags/triangular-lake/routes/pila",
+                "name": "Пила",
+                "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/033/33104/large-6d3774b91f40.jpg"
+            }
+        ],
+        "id": 0,
+        "link": "https://27crags.com//crags/triangular-lake/topos/2026",
+        "name": "Развал под основным массивом.",
+        "translitName": "razval_pod_osnovnym_massivom.",
+        "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/040/40856/huge-3ff12bed34ec.png"
+    }
+], "id": 0, "link": "https://27crags.com/crags/triangular-lake", "name": "Triangular lake", "translitName": "triangular_lake", "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/041/41102/huge-24bef3fe3f6f.jpg"}

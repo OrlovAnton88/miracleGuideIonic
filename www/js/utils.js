@@ -6,7 +6,7 @@ angular.module('starter.utils', [])
         console.log("$areaInit called");
 
         if (!localStorage.getItem("areas")) {
-          var fileNames = ["monrepo", "stalker"];
+          var fileNames = ["monrepo", "stalker","triangular_lake"];
           var areas = [];
           var url = "";
           if (ionic.Platform.isAndroid()) {

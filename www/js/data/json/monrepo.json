@@ -1,1012 +1,416 @@
-{
-  "topos": [
+{"topos": [
     {
-      "coordinates": {
-        "latitude": 60.733511,
-        "longitude": 28.719163
-      },
-      "routes": [
-        {
-          "desc": "Boulder, 6C at Большой камень, Monrepo in the area of Vyborg, Russian Federation",
-          "level": "6C",
-          "sectorName": "Большой камень",
-          "line": {
-            "plotWindth": 560,
-            "plotHeight": 420,
-            "points": [
-              {
-                "x": 508,
-                "y": 311
-              },
-              {
-                "x": 525,
-                "y": 268
-              },
-              {
-                "x": 524,
-                "y": 192
-              },
-              {
-                "x": 501,
-                "y": 140
-              }
-            ]
-          },
-          "id": 0,
-          "link": "https://27crags.com//crags/monrepo/routes/17670",
-          "name": "А вы не видели мамонта?",
-          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/044/44102/large-90783c3af5f9.jpg"
+        "coordinates": {
+            "latitude": 60.733511,
+            "longitude": 28.719163
         },
-        {
-          "desc": "Boulder, ? at Большой камень, Monrepo in the area of Vyborg, Russian Federation",
-          "level": "?",
-          "sectorName": "Большой камень",
-          "line": {
-            "plotWindth": 560,
-            "plotHeight": 420,
-            "points": [
-              {
-                "x": 220,
-                "y": 218
-              },
-              {
-                "x": 210,
-                "y": 147
-              },
-              {
-                "x": 175,
-                "y": 127
-              },
-              {
-                "x": 155,
-                "y": 122
-              },
-              {
-                "x": 125,
-                "y": 74
-              },
-              {
-                "x": 126,
-                "y": 7
-              }
-            ]
-          },
-          "id": 0,
-          "link": "https://27crags.com//crags/monrepo/routes/17679",
-          "name": "Проект",
-          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/044/44108/large-43d18dcad191.jpg"
-        },
-        {
-          "desc": "Boulder, 6B at Большой камень, Monrepo in the area of Vyborg, Russian Federation",
-          "level": "6B",
-          "sectorName": "Большой камень",
-          "line": {
-            "plotWindth": 560,
-            "plotHeight": 420,
-            "points": [
-              {
-                "x": 116,
-                "y": 331
-              },
-              {
-                "x": 291,
-                "y": 253
-              },
-              {
-                "x": 435,
-                "y": 210
-              },
-              {
-                "x": 433,
-                "y": 110
-              },
-              {
-                "x": 416,
-                "y": 52
-              }
-            ]
-          },
-          "id": 0,
-          "link": "https://27crags.com//crags/monrepo/routes/17668",
-          "name": "Небольшие затеи",
-          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/044/44096/large-cecabb201756.jpg"
-        },
-        {
-          "desc": "Boulder, 6C at Большой камень, Monrepo in the area of Vyborg, Russian Federation",
-          "level": "6C",
-          "sectorName": "Большой камень",
-          "line": {
-            "plotWindth": 560,
-            "plotHeight": 420,
-            "points": [
-              {
-                "x": 26,
-                "y": 301
-              },
-              {
-                "x": 63,
-                "y": 305
-              },
-              {
-                "x": 114,
-                "y": 304
-              },
-              {
-                "x": 171,
-                "y": 303
-              },
-              {
-                "x": 206,
-                "y": 277
-              },
-              {
-                "x": 247,
-                "y": 270
-              },
-              {
-                "x": 276,
-                "y": 242
-              },
-              {
-                "x": 264,
-                "y": 186
-              },
-              {
-                "x": 275,
-                "y": 143
-              }
-            ]
-          },
-          "id": 0,
-          "link": "https://27crags.com//crags/monrepo/routes/17672",
-          "name": "Без названия",
-          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/044/44102/large-90783c3af5f9.jpg"
-        },
-        {
-          "desc": "Boulder, 7A at Большой камень, Monrepo in the area of Vyborg, Russian Federation",
-          "level": "7A",
-          "sectorName": "Большой камень",
-          "line": {
-            "plotWindth": 560,
-            "plotHeight": 420,
-            "points": [
-              {
-                "x": 267,
-                "y": 329
-              },
-              {
-                "x": 273,
-                "y": 284
-              },
-              {
-                "x": 290,
-                "y": 270
-              },
-              {
-                "x": 308,
-                "y": 263
-              },
-              {
-                "x": 351,
-                "y": 211
-              },
-              {
-                "x": 356,
-                "y": 181
-              },
-              {
-                "x": 353,
-                "y": 144
-              }
-            ]
-          },
-          "id": 0,
-          "link": "https://27crags.com//crags/monrepo/routes/17674",
-          "name": "Без названия",
-          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/044/44102/large-90783c3af5f9.jpg"
-        },
-        {
-          "desc": "Boulder, 5+ at Большой камень, Monrepo in the area of Vyborg, Russian Federation",
-          "level": "5+",
-          "sectorName": "Большой камень",
-          "line": {
-            "plotWindth": 560,
-            "plotHeight": 420,
-            "points": [
-              {
-                "x": 96,
-                "y": 337
-              },
-              {
-                "x": 119,
-                "y": 115
-              }
-            ]
-          },
-          "id": 0,
-          "link": "https://27crags.com//crags/monrepo/routes/17669",
-          "name": "Нелегал",
-          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/044/44096/large-cecabb201756.jpg"
-        },
-        {
-          "desc": "Boulder, ? at Большой камень, Monrepo in the area of Vyborg, Russian Federation",
-          "level": "?",
-          "sectorName": "Большой камень",
-          "line": {
-            "plotWindth": 560,
-            "plotHeight": 420,
-            "points": [
-              {
-                "x": 489,
-                "y": 285
-              },
-              {
-                "x": 479,
-                "y": 247
-              },
-              {
-                "x": 465,
-                "y": 195
-              },
-              {
-                "x": 461,
-                "y": 139
-              },
-              {
-                "x": 451,
-                "y": 102
-              },
-              {
-                "x": 427,
-                "y": 51
-              }
-            ]
-          },
-          "id": 0,
-          "link": "https://27crags.com//crags/monrepo/routes/17676",
-          "name": "Без названия",
-          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/044/44096/large-cecabb201756.jpg"
-        },
-        {
-          "desc": "Boulder, 6C at Большой камень, Monrepo in the area of Vyborg, Russian Federation",
-          "level": "6C",
-          "sectorName": "Большой камень",
-          "line": {
-            "plotWindth": 560,
-            "plotHeight": 420,
-            "points": [
-              {
-                "x": 388,
-                "y": 334
-              },
-              {
-                "x": 360,
-                "y": 279
-              },
-              {
-                "x": 346,
-                "y": 273
-              },
-              {
-                "x": 323,
-                "y": 267
-              },
-              {
-                "x": 283,
-                "y": 246
-              },
-              {
-                "x": 278,
-                "y": 214
-              },
-              {
-                "x": 276,
-                "y": 189
-              },
-              {
-                "x": 281,
-                "y": 144
-              }
-            ]
-          },
-          "id": 0,
-          "link": "https://27crags.com//crags/monrepo/routes/17677",
-          "name": "Без названия",
-          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/044/44102/large-90783c3af5f9.jpg"
-        },
-        {
-          "desc": "Boulder, ? at Большой камень, Monrepo in the area of Vyborg, Russian Federation",
-          "level": "?",
-          "sectorName": "Большой камень",
-          "line": {
-            "plotWindth": 560,
-            "plotHeight": 420,
-            "points": [
-              {
-                "x": 396,
-                "y": 329
-              },
-              {
-                "x": 416,
-                "y": 242
-              },
-              {
-                "x": 438,
-                "y": 186
-              },
-              {
-                "x": 446,
-                "y": 133
-              }
-            ]
-          },
-          "id": 0,
-          "link": "https://27crags.com//crags/monrepo/routes/17680",
-          "name": "Проект",
-          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/044/44102/large-90783c3af5f9.jpg"
-        },
-        {
-          "desc": "Boulder, 6A+ at Большой камень, Monrepo in the area of Vyborg, Russian Federation",
-          "level": "6A+",
-          "sectorName": "Большой камень",
-          "line": {
-            "plotWindth": 560,
-            "plotHeight": 420,
-            "points": [
-              {
-                "x": 512,
-                "y": 257
-              },
-              {
-                "x": 448,
-                "y": 252
-              },
-              {
-                "x": 384,
-                "y": 247
-              },
-              {
-                "x": 321,
-                "y": 236
-              },
-              {
-                "x": 250,
-                "y": 220
-              },
-              {
-                "x": 211,
-                "y": 217
-              },
-              {
-                "x": 175,
-                "y": 219
-              },
-              {
-                "x": 133,
-                "y": 231
-              },
-              {
-                "x": 94,
-                "y": 231
-              },
-              {
-                "x": 57,
-                "y": 235
-              }
-            ]
-          },
-          "id": 0,
-          "link": "https://27crags.com//crags/monrepo/routes/17673",
-          "name": "Разминочный траверс",
-          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/044/44108/large-43d18dcad191.jpg"
-        },
-        {
-          "desc": "Boulder, ? at Большой камень, Monrepo in the area of Vyborg, Russian Federation",
-          "level": "?",
-          "sectorName": "Большой камень",
-          "line": {
-            "plotWindth": 560,
-            "plotHeight": 420,
-            "points": [
-              {
-                "x": 279,
-                "y": 333
-              },
-              {
-                "x": 284,
-                "y": 287
-              },
-              {
-                "x": 300,
-                "y": 274
-              },
-              {
-                "x": 312,
-                "y": 270
-              },
-              {
-                "x": 369,
-                "y": 225
-              },
-              {
-                "x": 455,
-                "y": 223
-              },
-              {
-                "x": 507,
-                "y": 222
-              },
-              {
-                "x": 514,
-                "y": 200
-              },
-              {
-                "x": 511,
-                "y": 181
-              },
-              {
-                "x": 498,
-                "y": 148
-              }
-            ]
-          },
-          "id": 0,
-          "link": "https://27crags.com//crags/monrepo/routes/17675",
-          "name": "Проект",
-          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/044/44102/large-90783c3af5f9.jpg"
-        }
-      ],
-      "id": 0,
-      "link": "https://27crags.com//crags/monrepo/topos/2858",
-      "name": "Большой камень",
-      "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/044/44096/huge-bb2017569a2b.jpg"
+        "routes": [
+            {
+                "description": "Boulder, ? at Большой камень, Monrepo in the area of Vyborg, Russian Federation",
+                "level": "?",
+                "sectorName": "Большой камень",
+                "line": {
+                    "plotWindth": 560,
+                    "plotHeight": 420,
+                    "points": [
+                        {
+                            "x": 220,
+                            "y": 218
+                        },
+                        {
+                            "x": 210,
+                            "y": 147
+                        },
+                        {
+                            "x": 175,
+                            "y": 127
+                        },
+                        {
+                            "x": 155,
+                            "y": 122
+                        },
+                        {
+                            "x": 125,
+                            "y": 74
+                        },
+                        {
+                            "x": 126,
+                            "y": 7
+                        }
+                    ]
+                },
+                "id": 0,
+                "link": "https://27crags.com//crags/monrepo/routes/17679",
+                "name": "Проект",
+                "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/044/44108/large-43d18dcad191.jpg"
+            },
+            {
+                "description": "Boulder, 6B at Большой камень, Monrepo in the area of Vyborg, Russian Federation",
+                "level": "6B",
+                "sectorName": "Большой камень",
+                "line": {
+                    "plotWindth": 560,
+                    "plotHeight": 420,
+                    "points": [
+                        {
+                            "x": 116,
+                            "y": 331
+                        },
+                        {
+                            "x": 291,
+                            "y": 253
+                        },
+                        {
+                            "x": 435,
+                            "y": 210
+                        },
+                        {
+                            "x": 433,
+                            "y": 110
+                        },
+                        {
+                            "x": 416,
+                            "y": 52
+                        }
+                    ]
+                },
+                "id": 0,
+                "link": "https://27crags.com//crags/monrepo/routes/17668",
+                "name": "Небольшие затеи",
+                "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/044/44096/large-cecabb201756.jpg"
+            },
+            {
+                "description": "Boulder, 6A+ at Большой камень, Monrepo in the area of Vyborg, Russian Federation",
+                "level": "6A+",
+                "sectorName": "Большой камень",
+                "line": {
+                    "plotWindth": 560,
+                    "plotHeight": 420,
+                    "points": [
+                        {
+                            "x": 512,
+                            "y": 257
+                        },
+                        {
+                            "x": 448,
+                            "y": 252
+                        },
+                        {
+                            "x": 384,
+                            "y": 247
+                        },
+                        {
+                            "x": 321,
+                            "y": 236
+                        },
+                        {
+                            "x": 250,
+                            "y": 220
+                        },
+                        {
+                            "x": 211,
+                            "y": 217
+                        },
+                        {
+                            "x": 175,
+                            "y": 219
+                        },
+                        {
+                            "x": 133,
+                            "y": 231
+                        },
+                        {
+                            "x": 94,
+                            "y": 231
+                        },
+                        {
+                            "x": 57,
+                            "y": 235
+                        }
+                    ]
+                },
+                "id": 0,
+                "link": "https://27crags.com//crags/monrepo/routes/17673",
+                "name": "Разминочный траверс",
+                "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/044/44108/large-43d18dcad191.jpg"
+            }
+        ],
+        "id": 0,
+        "link": "https://27crags.com//crags/monrepo/topos/2858",
+        "name": "Большой камень",
+        "translitName": "bolshoi_kamen",
+        "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/044/44096/huge-bb2017569a2b.jpg"
     },
     {
-      "coordinates": {
-        "latitude": 60.743753,
-        "longitude": 28.709046
-      },
-      "routes": [
-        {
-          "desc": "Boulder, 6C at Main mass, Monrepo in the area of Vyborg, Russian Federation",
-          "level": "6C",
-          "sectorName": "Main mass",
-          "line": {
-            "plotWindth": 560,
-            "plotHeight": 373,
-            "points": [
-              {
-                "x": 556,
-                "y": 343
-              },
-              {
-                "x": 527,
-                "y": 229
-              },
-              {
-                "x": 506,
-                "y": 188
-              },
-              {
-                "x": 468,
-                "y": 146
-              },
-              {
-                "x": 346,
-                "y": 146
-              },
-              {
-                "x": 274,
-                "y": 162
-              },
-              {
-                "x": 243,
-                "y": 95
-              },
-              {
-                "x": 222,
-                "y": 88
-              },
-              {
-                "x": 173,
-                "y": 107
-              },
-              {
-                "x": 119,
-                "y": 88
-              }
-            ]
-          },
-          "id": 0,
-          "link": "https://27crags.com//crags/monrepo/routes/bananza-sds",
-          "name": "BananZa sds",
-          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/050/50300/large-0e2aad32ad8d.jpg"
+        "coordinates": {
+            "latitude": 60.743753,
+            "longitude": 28.709046
         },
-        {
-          "desc": "Boulder, 6A at Main mass, Monrepo in the area of Vyborg, Russian Federation",
-          "level": "6A",
-          "sectorName": "Main mass",
-          "line": {
-            "plotWindth": 373,
-            "plotHeight": 560,
-            "points": [
-              {
-                "x": 163,
-                "y": 321
-              },
-              {
-                "x": 166,
-                "y": 255
-              },
-              {
-                "x": 173,
-                "y": 175
-              },
-              {
-                "x": 188,
-                "y": 91
-              }
-            ]
-          },
-          "id": 0,
-          "link": "https://27crags.com//crags/monrepo/routes/spiders-crack",
-          "name": "Spiders crack",
-          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/050/50297/large-4eff72d412d2.jpg"
-        },
-        {
-          "desc": "Boulder, 5 at Main mass, Monrepo in the area of Vyborg, Russian Federation",
-          "level": "5",
-          "sectorName": "Main mass",
-          "line": {
-            "plotWindth": 560,
-            "plotHeight": 373,
-            "points": [
-              {
-                "x": 88,
-                "y": 254
-              },
-              {
-                "x": 90,
-                "y": 154
-              }
-            ]
-          },
-          "id": 0,
-          "link": "https://27crags.com//crags/monrepo/routes/noname3",
-          "name": "noname1",
-          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/050/50302/large-1780dc134845.jpg"
-        },
-        {
-          "desc": "Boulder, 7B at Main mass, Monrepo in the area of Vyborg, Russian Federation",
-          "level": "7B",
-          "sectorName": "Main mass",
-          "line": {
-            "plotWindth": 373,
-            "plotHeight": 560,
-            "points": [
-              {
-                "x": 218,
-                "y": 351
-              },
-              {
-                "x": 266,
-                "y": 309
-              },
-              {
-                "x": 338,
-                "y": 221
-              }
-            ]
-          },
-          "id": 0,
-          "link": "https://27crags.com//crags/monrepo/routes/noname4",
-          "name": "One Way",
-          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/050/50298/large-81f7b2e5c6b8.jpg"
-        },
-        {
-          "desc": "Boulder, 6C at Main mass, Monrepo in the area of Vyborg, Russian Federation",
-          "level": "6C",
-          "sectorName": "Main mass",
-          "line": {
-            "plotWindth": 373,
-            "plotHeight": 560,
-            "points": [
-              {
-                "x": 230,
-                "y": 455
-              },
-              {
-                "x": 211,
-                "y": 383
-              },
-              {
-                "x": 171,
-                "y": 266
-              },
-              {
-                "x": 182,
-                "y": 175
-              },
-              {
-                "x": 199,
-                "y": 95
-              }
-            ]
-          },
-          "id": 0,
-          "link": "https://27crags.com//crags/monrepo/routes/spiders-crack-sds",
-          "name": "Spiders crack SDS",
-          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/050/50297/large-4eff72d412d2.jpg"
-        },
-        {
-          "desc": "Boulder, ? at Main mass, Monrepo in the area of Vyborg, Russian Federation",
-          "level": "?",
-          "sectorName": "Main mass",
-          "line": {
-            "plotWindth": 373,
-            "plotHeight": 560,
-            "points": [
-              {
-                "x": 235,
-                "y": 351
-              },
-              {
-                "x": 158,
-                "y": 287
-              },
-              {
-                "x": 85,
-                "y": 200
-              },
-              {
-                "x": 113,
-                "y": 166
-              },
-              {
-                "x": 149,
-                "y": 26
-              }
-            ]
-          },
-          "id": 0,
-          "link": "https://27crags.com//crags/monrepo/routes/buratino-to-memento",
-          "name": "Buratino to Memento",
-          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/050/50296/large-dca115da5eaf.jpg"
-        },
-        {
-          "desc": "Boulder, 8A (?) at Main mass, Monrepo in the area of Vyborg, Russian Federation",
-          "level": "8A (?)",
-          "sectorName": "Main mass",
-          "line": {
-            "plotWindth": 373,
-            "plotHeight": 560,
-            "points": [
-              {
-                "x": 102,
-                "y": 276
-              },
-              {
-                "x": 149,
-                "y": 217
-              },
-              {
-                "x": 158,
-                "y": 68
-              }
-            ]
-          },
-          "id": 0,
-          "link": "https://27crags.com//crags/monrepo/routes/project-24520",
-          "name": "Project",
-          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/050/50298/large-81f7b2e5c6b8.jpg"
-        },
-        {
-          "desc": "Boulder, 6A+ at Main mass, Monrepo in the area of Vyborg, Russian Federation",
-          "level": "6A+",
-          "sectorName": "Main mass",
-          "line": {
-            "plotWindth": 560,
-            "plotHeight": 373,
-            "points": [
-              {
-                "x": 295,
-                "y": 222
-              },
-              {
-                "x": 268,
-                "y": 134
-              }
-            ]
-          },
-          "id": 0,
-          "link": "https://27crags.com//crags/monrepo/routes/noname2",
-          "name": "Sex Shop",
-          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/050/50302/large-1780dc134845.jpg"
-        },
-        {
-          "desc": "Boulder, 7A at Main mass, Monrepo in the area of Vyborg, Russian Federation",
-          "level": "7A",
-          "sectorName": "Main mass",
-          "line": {
-            "plotWindth": 373,
-            "plotHeight": 560,
-            "points": [
-              {
-                "x": 176,
-                "y": 445
-              },
-              {
-                "x": 184,
-                "y": 418
-              },
-              {
-                "x": 202,
-                "y": 244
-              },
-              {
-                "x": 247,
-                "y": 1
-              }
-            ]
-          },
-          "id": 0,
-          "link": "https://27crags.com//crags/monrepo/routes/boulder-problem-8-24509",
-          "name": "Letuchiy Gollandec",
-          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/050/50299/large-2d672aca4758.jpg"
-        },
-        {
-          "desc": "Boulder, 6A+ at Main mass, Monrepo in the area of Vyborg, Russian Federation",
-          "level": "6A+",
-          "sectorName": "Main mass",
-          "line": {
-            "plotWindth": 560,
-            "plotHeight": 373,
-            "points": [
-              {
-                "x": 512,
-                "y": 214
-              },
-              {
-                "x": 420,
-                "y": 107
-              }
-            ]
-          },
-          "id": 0,
-          "link": "https://27crags.com//crags/monrepo/routes/noname1",
-          "name": "Hychin po kayfu",
-          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/050/50302/large-1780dc134845.jpg"
-        },
-        {
-          "desc": "Boulder, 6A+ at Main mass, Monrepo in the area of Vyborg, Russian Federation",
-          "level": "6A+",
-          "sectorName": "Main mass",
-          "line": {
-            "plotWindth": 560,
-            "plotHeight": 373,
-            "points": [
-              {
-                "x": 500,
-                "y": 198
-              },
-              {
-                "x": 475,
-                "y": 151
-              },
-              {
-                "x": 346,
-                "y": 152
-              },
-              {
-                "x": 288,
-                "y": 166
-              },
-              {
-                "x": 267,
-                "y": 168
-              },
-              {
-                "x": 255,
-                "y": 116
-              },
-              {
-                "x": 236,
-                "y": 93
-              },
-              {
-                "x": 203,
-                "y": 98
-              },
-              {
-                "x": 172,
-                "y": 121
-              },
-              {
-                "x": 117,
-                "y": 97
-              }
-            ]
-          },
-          "id": 0,
-          "link": "https://27crags.com//crags/monrepo/routes/boulder-problem-9-24510",
-          "name": "BananZa",
-          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/050/50300/large-0e2aad32ad8d.jpg"
-        },
-        {
-          "desc": "Boulder, 7C at Main mass, Monrepo in the area of Vyborg, Russian Federation",
-          "level": "7C",
-          "sectorName": "Main mass",
-          "line": {
-            "plotWindth": 373,
-            "plotHeight": 560,
-            "points": [
-              {
-                "x": 193,
-                "y": 441
-              },
-              {
-                "x": 170,
-                "y": 330
-              },
-              {
-                "x": 182,
-                "y": 53
-              }
-            ]
-          },
-          "id": 0,
-          "link": "https://27crags.com//crags/monrepo/routes/noname5",
-          "name": "One Sport",
-          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/050/50301/large-83aeface4aad.jpg"
-        },
-        {
-          "desc": "Boulder, 6C+ at Main mass, Monrepo in the area of Vyborg, Russian Federation",
-          "level": "6C+",
-          "sectorName": "Main mass",
-          "line": {
-            "plotWindth": 373,
-            "plotHeight": 560,
-            "points": [
-              {
-                "x": 191,
-                "y": 289
-              },
-              {
-                "x": 149,
-                "y": 24
-              }
-            ]
-          },
-          "id": 0,
-          "link": "https://27crags.com//crags/monrepo/routes/momento-mori",
-          "name": "Buratino",
-          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/050/50296/large-dca115da5eaf.jpg"
-        },
-        {
-          "desc": "Boulder, 7B+ at Main mass, Monrepo in the area of Vyborg, Russian Federation",
-          "level": "7B+",
-          "sectorName": "Main mass",
-          "line": {
-            "plotWindth": 373,
-            "plotHeight": 560,
-            "points": [
-              {
-                "x": 160,
-                "y": 331
-              },
-              {
-                "x": 175,
-                "y": 54
-              }
-            ]
-          },
-          "id": 0,
-          "link": "https://27crags.com//crags/monrepo/routes/light-fitness",
-          "name": "Light fitness",
-          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/050/50301/large-83aeface4aad.jpg"
-        },
-        {
-          "desc": "Boulder, 7C+ at Main mass, Monrepo in the area of Vyborg, Russian Federation",
-          "level": "7C+",
-          "sectorName": "Main mass",
-          "line": {
-            "plotWindth": 373,
-            "plotHeight": 560,
-            "points": [
-              {
-                "x": 327,
-                "y": 341
-              },
-              {
-                "x": 366,
-                "y": 266
-              },
-              {
-                "x": 366,
-                "y": 234
-              }
-            ]
-          },
-          "id": 0,
-          "link": "https://27crags.com//crags/monrepo/routes/project-24521",
-          "name": "La rage",
-          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/050/50298/large-81f7b2e5c6b8.jpg"
-        },
-        {
-          "desc": "Boulder, 7B at Main mass, Monrepo in the area of Vyborg, Russian Federation",
-          "level": "7B",
-          "sectorName": "Main mass",
-          "line": {
-            "plotWindth": 373,
-            "plotHeight": 560,
-            "points": [
-              {
-                "x": 193,
-                "y": 446
-              },
-              {
-                "x": 239,
-                "y": 248
-              },
-              {
-                "x": 360,
-                "y": 218
-              },
-              {
-                "x": 371,
-                "y": 87
-              }
-            ]
-          },
-          "id": 0,
-          "link": "https://27crags.com//crags/monrepo/routes/kroshka-cap",
-          "name": "Kroshka Cap",
-          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/050/50299/large-2d672aca4758.jpg"
-        },
-        {
-          "desc": "Boulder, 6C+ at Main mass, Monrepo in the area of Vyborg, Russian Federation",
-          "level": "6C+",
-          "sectorName": "Main mass",
-          "line": {
-            "plotWindth": 373,
-            "plotHeight": 560,
-            "points": [
-              {
-                "x": 28,
-                "y": 330
-              },
-              {
-                "x": 45,
-                "y": 270
-              },
-              {
-                "x": 81,
-                "y": 199
-              },
-              {
-                "x": 116,
-                "y": 167
-              },
-              {
-                "x": 148,
-                "y": 28
-              }
-            ]
-          },
-          "id": 0,
-          "link": "https://27crags.com//crags/monrepo/routes/memento-mori-26966",
-          "name": "Memento mori",
-          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/050/50296/large-dca115da5eaf.jpg"
-        }
-      ],
-      "id": 0,
-      "link": "https://27crags.com//crags/monrepo/topos/main-mass",
-      "name": "Main mass",
-      "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/050/50296/huge-15da5eaf91d3.jpg"
+        "routes": [
+            {
+                "description": "Boulder, 6A+ at Main mass, Monrepo in the area of Vyborg, Russian Federation",
+                "level": "6A+",
+                "sectorName": "Main mass",
+                "line": {
+                    "plotWindth": 560,
+                    "plotHeight": 373,
+                    "points": [
+                        {
+                            "x": 512,
+                            "y": 214
+                        },
+                        {
+                            "x": 420,
+                            "y": 107
+                        }
+                    ]
+                },
+                "id": 0,
+                "link": "https://27crags.com//crags/monrepo/routes/noname1",
+                "name": "Hychin po kayfu",
+                "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/050/50302/large-1780dc134845.jpg"
+            },
+            {
+                "description": "Boulder, 6A at Main mass, Monrepo in the area of Vyborg, Russian Federation",
+                "level": "6A",
+                "sectorName": "Main mass",
+                "line": {
+                    "plotWindth": 373,
+                    "plotHeight": 560,
+                    "points": [
+                        {
+                            "x": 163,
+                            "y": 321
+                        },
+                        {
+                            "x": 166,
+                            "y": 255
+                        },
+                        {
+                            "x": 173,
+                            "y": 175
+                        },
+                        {
+                            "x": 188,
+                            "y": 91
+                        }
+                    ]
+                },
+                "id": 0,
+                "link": "https://27crags.com//crags/monrepo/routes/spiders-crack",
+                "name": "Spiders crack",
+                "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/050/50297/large-4eff72d412d2.jpg"
+            },
+            {
+                "description": "Boulder, 7C at Main mass, Monrepo in the area of Vyborg, Russian Federation",
+                "level": "7C",
+                "sectorName": "Main mass",
+                "line": {
+                    "plotWindth": 373,
+                    "plotHeight": 560,
+                    "points": [
+                        {
+                            "x": 193,
+                            "y": 441
+                        },
+                        {
+                            "x": 170,
+                            "y": 330
+                        },
+                        {
+                            "x": 182,
+                            "y": 53
+                        }
+                    ]
+                },
+                "id": 0,
+                "link": "https://27crags.com//crags/monrepo/routes/noname5",
+                "name": "One Sport",
+                "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/050/50301/large-83aeface4aad.jpg"
+            },
+            {
+                "description": "Boulder, 5 at Main mass, Monrepo in the area of Vyborg, Russian Federation",
+                "level": "5",
+                "sectorName": "Main mass",
+                "line": {
+                    "plotWindth": 560,
+                    "plotHeight": 373,
+                    "points": [
+                        {
+                            "x": 88,
+                            "y": 254
+                        },
+                        {
+                            "x": 90,
+                            "y": 154
+                        }
+                    ]
+                },
+                "id": 0,
+                "link": "https://27crags.com//crags/monrepo/routes/noname3",
+                "name": "noname1",
+                "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/050/50302/large-1780dc134845.jpg"
+            },
+            {
+                "description": "Boulder, 6C+ at Main mass, Monrepo in the area of Vyborg, Russian Federation",
+                "level": "6C+",
+                "sectorName": "Main mass",
+                "line": {
+                    "plotWindth": 373,
+                    "plotHeight": 560,
+                    "points": [
+                        {
+                            "x": 191,
+                            "y": 289
+                        },
+                        {
+                            "x": 149,
+                            "y": 24
+                        }
+                    ]
+                },
+                "id": 0,
+                "link": "https://27crags.com//crags/monrepo/routes/momento-mori",
+                "name": "Buratino",
+                "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/050/50296/large-dca115da5eaf.jpg"
+            },
+            {
+                "description": "Boulder, 7C (morpho) at Main mass, Monrepo in the area of Vyborg, Russian Federation",
+                "level": "7C (morpho)",
+                "sectorName": "Main mass",
+                "line": {
+                    "plotWindth": 373,
+                    "plotHeight": 560,
+                    "points": [
+                        {
+                            "x": 192,
+                            "y": 237
+                        },
+                        {
+                            "x": 239,
+                            "y": 160
+                        },
+                        {
+                            "x": 250,
+                            "y": 110
+                        }
+                    ]
+                },
+                "id": 0,
+                "link": "https://27crags.com//crags/monrepo/routes/no-way",
+                "name": "No way",
+                "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/050/50298/large-81f7b2e5c6b8.jpg"
+            },
+            {
+                "description": "Boulder, 6C at Main mass, Monrepo in the area of Vyborg, Russian Federation",
+                "level": "6C",
+                "sectorName": "Main mass",
+                "line": {
+                    "plotWindth": 373,
+                    "plotHeight": 560,
+                    "points": [
+                        {
+                            "x": 230,
+                            "y": 455
+                        },
+                        {
+                            "x": 211,
+                            "y": 383
+                        },
+                        {
+                            "x": 171,
+                            "y": 266
+                        },
+                        {
+                            "x": 182,
+                            "y": 175
+                        },
+                        {
+                            "x": 199,
+                            "y": 95
+                        }
+                    ]
+                },
+                "id": 0,
+                "link": "https://27crags.com//crags/monrepo/routes/spiders-crack-sds",
+                "name": "Spiders crack SDS",
+                "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/050/50297/large-4eff72d412d2.jpg"
+            },
+            {
+                "description": "Boulder, 6C+ at Main mass, Monrepo in the area of Vyborg, Russian Federation",
+                "level": "6C+",
+                "sectorName": "Main mass",
+                "line": {
+                    "plotWindth": 373,
+                    "plotHeight": 560,
+                    "points": [
+                        {
+                            "x": 28,
+                            "y": 330
+                        },
+                        {
+                            "x": 45,
+                            "y": 270
+                        },
+                        {
+                            "x": 81,
+                            "y": 199
+                        },
+                        {
+                            "x": 116,
+                            "y": 167
+                        },
+                        {
+                            "x": 148,
+                            "y": 28
+                        }
+                    ]
+                },
+                "id": 0,
+                "link": "https://27crags.com//crags/monrepo/routes/memento-mori-26966",
+                "name": "Memento mori",
+                "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/050/50296/large-dca115da5eaf.jpg"
+            },
+            {
+                "description": "Boulder, ? at Main mass, Monrepo in the area of Vyborg, Russian Federation",
+                "level": "?",
+                "sectorName": "Main mass",
+                "line": {
+                    "plotWindth": 373,
+                    "plotHeight": 560,
+                    "points": [
+                        {
+                            "x": 235,
+                            "y": 351
+                        },
+                        {
+                            "x": 158,
+                            "y": 287
+                        },
+                        {
+                            "x": 85,
+                            "y": 200
+                        },
+                        {
+                            "x": 113,
+                            "y": 166
+                        },
+                        {
+                            "x": 149,
+                            "y": 26
+                        }
+                    ]
+                },
+                "id": 0,
+                "link": "https://27crags.com//crags/monrepo/routes/buratino-to-memento",
+                "name": "Buratino to Memento",
+                "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/050/50296/large-dca115da5eaf.jpg"
+            }
+        ],
+        "id": 0,
+        "link": "https://27crags.com//crags/monrepo/topos/main-mass",
+        "name": "Main mass",
+        "translitName": "main_mass",
+        "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/050/50296/huge-15da5eaf91d3.jpg"
     }
-  ],
-  "id": 0,
-  "link": "https://27crags.com/crags/monrepo",
-  "name": "Monrepo",
-  "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/044/44096/huge-bb2017569a2b.jpg"
-}
+], "id": 0, "link": "https://27crags.com/crags/monrepo", "name": "Monrepo", "translitName": "monrepo", "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/044/44096/huge-bb2017569a2b.jpg"}
